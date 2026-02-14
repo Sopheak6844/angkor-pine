@@ -1,0 +1,25 @@
+{
+  "name": "angkor-pine",
+  "displayName": "Angkor Pine",
+  "description": "A refined pine-toned dark theme with balanced contrast and elegant syntax highlighting.",
+  "version": "0.0.1",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Angkor Pine",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Angkor-Pine-color-theme.json"
+      }
+    ]
+  },
+  "extensionDependencies": [
+        "mink-96.vscode-jetbrains-icon-theme-2023-auto"
+    ]
+}
