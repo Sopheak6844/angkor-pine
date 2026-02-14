@@ -58,10 +58,13 @@ Accent Blue | `#3474F0`
 
 ## 🛠 Recommended Pairing
 
-- **Icons:** JetBrains Icon Theme  
-- **Font:** JetBrains Mono  
-- **Ligatures:** Enabled (optional)
+For the best visual experience:
 
+- 🎨 **Icons:** [JetBrains Icon Theme](https://marketplace.visualstudio.com/items?itemName=chadalen.vscode-jetbrains-icon-theme)  
+- 🔤 **Font:** [JetBrains Mono](https://www.jetbrains.com/lp/mono/)  
+- ✨ **Ligatures:** Enable via:
+  ```json
+  "editor.fontLigatures": true
 ---
 
 ## 🚀 Ideal For
