@@ -4,6 +4,7 @@
   "description": "A refined pine-toned dark theme with balanced contrast and elegant syntax highlighting.",
   "version": "0.0.1",
   "icon": "icon.png",
+  "publisher": "AngkorPine",
   "engines": {
     "vscode": "^1.109.0"
   },
