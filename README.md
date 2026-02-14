@@ -88,7 +88,7 @@ Built with precision for developers who prefer clarity over chaos.
 
 ## Made in Cambodia
 <img src="https://flagcdn.com/w40/kh.png" width="50" alt="Cambodia Flag" />
- </br>
+
 Angkor Pine is proudly crafted in Cambodia, inspired by JetBrains Rider and optimized for modern development workflows.
 
 Thank you for supporting independent open-source work.
