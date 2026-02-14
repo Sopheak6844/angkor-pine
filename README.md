@@ -79,7 +79,7 @@ For the best visual experience:
 ---
 
 ## 📜 License
-MIT License © 2026 Sopheak Hun
+MIT License © 2026
 ---
 
 Built with precision for developers who prefer clarity over chaos.
